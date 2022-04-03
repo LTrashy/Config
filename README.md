@@ -1,5 +1,5 @@
 
-## My ~/.congif
+# My ~/.congif
 ## Apps
 * bspwm
 * sxhkd
